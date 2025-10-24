@@ -1,0 +1,5 @@
+javac App.java models/*.java services/*.java ui/*.java     (for compiling)
+java App    (for running)
+username :     pass : 
+admin          admin
+alumni         alumni
